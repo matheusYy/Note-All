@@ -1,0 +1,12 @@
+setState: 
+
+ função que atualiza o estado, ela pode receber varíos valores de uma só vez
+ 
+  setState((state, props) => {
+    return ({
+     data: state.data,
+     value: props.value   
+    })
+  } //revisar código depois
+  
+  

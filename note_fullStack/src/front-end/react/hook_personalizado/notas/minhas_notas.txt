@@ -3,4 +3,5 @@ Minhas notas sobre hook personalizado
  a primeira ideia de quando eu tive contato com hook personalizado foi que ele serve como um aglomerado de logíca usando outros
  hooks para formar um retorno, uma cola de hooks?
  
- 
+  usar ele é como reusar logíca para seu codígo;
+  

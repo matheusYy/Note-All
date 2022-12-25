@@ -1,0 +1,11 @@
+useRef();
+
+Quando usar?
+ - gerenciamento de foco, seleção de texto ou reprodução de midia
+ - acionando animações imperativas
+ - integração com biblioteca DOM de terceiros
+ 
+Evite usar ref() para uso declarativo.
+ imperativo: segue com passos de início e ao fim de como a instrução deve ser feita.
+ declarativo: tem seu estado mudando a todo momento
+ 

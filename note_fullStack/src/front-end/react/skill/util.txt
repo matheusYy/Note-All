@@ -1,0 +1,8 @@
+a função useEffect faz todo o trabalho de desmontagem do componente, usando os metodos
+de ciclo de vida do react, em timer.txt:
+
+ foi usado o hook useEffect(), ele recebe setTimeout() que atualiza useValue a cada 1s, e é usado como 
+ argumento opcional no useEffect que recebe value, que é a variavel que está sendo atualizada fazendo a função
+ ser chamada toda vez que value é atualizada, rodando o relógio.
+ 
+ 

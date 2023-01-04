@@ -1,0 +1,7 @@
+Anotaçoes das experiencias que eu tenho
+programando e fazendo alguns projetos.
+
+z-index: ele serve para definir a posição de como cada elemento deve
+sobrepor o outro, se um z-index de uma div for 2 e a outra div em cima dela for 1 a div com o z-index maior
+irá para cima, útil para nós que normalmente usamos itens cobrindo outros itens.
+
